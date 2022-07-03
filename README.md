@@ -18,7 +18,7 @@ workload using AWS services.
 
 11.Configure an SQS queue as an event source for our Lambda, Lambda functions are automatically triggered when messages arrive to the SQS queue.
 
-11.Dump Json into the SQS Queue and set the batch size.
+12.Dump Json into the SQS Queue and set the batch size.
 
-12.Lambda function will trigger automatically based on messages into SQS batch.
+13.Lambda function will trigger automatically based on messages into SQS batch.
 
