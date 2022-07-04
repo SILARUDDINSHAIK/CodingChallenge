@@ -1,3 +1,4 @@
+# Coding Challenge
 This repository had done as a part of the technical assessment and consists of deploying a simple analytics
 workload using AWS services.
 
