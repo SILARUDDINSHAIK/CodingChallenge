@@ -19,6 +19,5 @@ workload using AWS services.
 
 12. Dump Json into the SQS Queue and set the batch size.
 
-13. Lambda function will trigger automatically based on messages into the SQS batch.
 
 
