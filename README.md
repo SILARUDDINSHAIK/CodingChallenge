@@ -1,4 +1,4 @@
-# Coding Challenge
+# AWS SNS Challenge
 This repository had done as a part of the coding challenge and consists of deploying a simple analytics
 workload using AWS services.
 
